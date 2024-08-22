@@ -14,9 +14,12 @@ I believe that this experience, despite its challenges, has contributed to who I
 For more details about my aspirations, please refer to social accounts.  
 
 - 🏆 Award 
-빅데이터 기반 2023 골목경제 부활 프로젝트 / 서울디지털재단 / 우수상
+빅데이터 기반 2023 골목경제 부활 프로젝트 / 서울디지털재단 / 우수상 
 
-- Project 
+May 2017 Big Data New Industry Startup Contest Excellence Award
+(Organizer: Gangwon Provincial Meteorological Office, Korea Energy Agency
+
+- 🗒️ Project 
  Detection of spetific intervals using ECG data(Heart sound cycle [S1,S2] for heart rate countmation)
  to AI research project for Medical Device 
 
