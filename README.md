@@ -8,9 +8,10 @@ For more details about my aspirations, please refer to social accounts.
 
 
 - 🏆 Award 
-빅데이터 기반 2023 골목경제 부활 프로젝트 / 서울디지털재단 / 우수상 
 
-May 2017 Big Data New Industry Startup Contest Excellence Award
+* 빅데이터 기반 2023 골목경제 부활 프로젝트 / 서울디지털재단 / 우수상 
+
+* May 2017 Big Data New Industry Startup Contest Excellence Award
 (Organizer: Gangwon Provincial Meteorological Office, Korea Energy Agency
 
 - 🗒️ Project 
