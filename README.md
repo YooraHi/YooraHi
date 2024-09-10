@@ -16,7 +16,7 @@ For more details about my aspirations, please refer to social accounts.
 
 - 🗒️ Project 
 
- Detection of spetific intervals using ECG data(Heart sound cycle [S1,S2] for heart rate countmation)
+* Detection of spetific intervals using ECG data(Heart sound cycle [S1,S2] for heart rate countmation)
  to AI research project for Medical Device 
 
 
