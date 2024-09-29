@@ -19,6 +19,9 @@ For more details about my aspirations, please refer to social accounts.
 * Detection of spetific intervals using ECG data(Heart sound cycle [S1,S2] for heart rate countmation)
  to AI research project for Medical Device 
 
+- Kaggle
+
+*ISIC 2024 - Skin Cancer Detection with 3D-TBP : Basic Model + Adabin + Maxout (Pytorch)  - Submission 
 
 
 
