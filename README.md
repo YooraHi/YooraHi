@@ -14,6 +14,9 @@ For more details about my aspirations, please refer to social accounts.
 * May 2017 Big Data New Industry Startup Contest Excellence Award
 (Organizer: Gangwon Provincial Meteorological Office, Korea Energy Agency
 
+* [Track 1] 2026 AI Co-Scientist Challenge Korea (AI 연구동료 경진대회)
+  : Advanced to the preliminary round 
+
 - 🗒️ Project 
 
 * Detection of spetific intervals using ECG data(Heart sound cycle [S1,S2] for heart rate countmation)
